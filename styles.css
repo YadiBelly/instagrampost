@@ -1,0 +1,25 @@
+.myContainer {
+    background-color: white;
+    width: 50vw;
+    margin: auto;
+    
+}
+span{
+    color: black;
+}
+body{
+    background-color:darkblue;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.icons{
+    display:flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.text{
+    padding: 10px;
+}
